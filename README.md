@@ -1,3 +1,29 @@
+# coding-interview-university
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A complete computer science study plan to become a software engineer.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+成为软件工程师的完整计算机科学学习计划。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
